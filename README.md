@@ -6,7 +6,7 @@ This is a project that associated with "Build a Modern Computer from First Princ
 <br>All the steps followed in this project is given bellow.
 
 1. Build the all common logic gates by using only NAND logic gate (NOT, AND, OR, XOR, MUX, DEMUX, 16 BIT NOT, 16 BIT AND, 16 BIT OR, 8-WAY OR, 16 BIT 4-WAY MUX, 16 BIT 8-WAY MUX, 4-WAY DEMUX, 8-WAY DEMUX)
-2. Build the Arithmatic and Logic Unit (ALU) using built logic gates.
+2. Build the Arithmatic and Logic Unit (ALU) using built logic gates. (Building Half Adder, Full Adder, 16 Bit Adder, 16 Bit Incrementer, Then combine them to build the ALU.)
 3. Build the computers main memory unit - RAM
 4. Designing the computers instruction set
 5. Low level Assembly Programming for the CPU
