@@ -11,4 +11,4 @@ This is a project that is associated with "Build a Modern Computer from First Pr
 4. Low level Assembly Programming for the CPU
    * Building the simple multiplication Program using inputs stored in the RAM.
    * Reading keyboard input from keyboard input memory location and writing the screen memory map so, when a key is pressed the screen will become black and when it is released the screen will become white.
-5. Designing the computer's instruction set
+5. Designing the CPU and Memory, then combine the CPU, Memory and ROM for create the Computer chip.
